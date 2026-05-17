@@ -11,3 +11,5 @@ This repository does not have a license file. Please consider adding one to clar
 Supported Python versions: 3.6, 3.7, 3.8, 3.9, 3.10.
 
 Make sure to set up your Python environment correctly.
+
+**Note:** This package is not supported on Windows operating systems.
