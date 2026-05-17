@@ -5,9 +5,8 @@ setup(
     version='0.1',
     packages=find_packages(),
     install_requires=[
-        # List your dependencies here
-        'requests',
-        'numpy>=1.21.0',
-        'pandas',
+        'requests==2.34.2',
+        'numpy==2.4.5',
+        'pandas==3.0.3',
     ],
 )
